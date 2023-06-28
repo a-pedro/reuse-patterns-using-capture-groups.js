@@ -8,4 +8,7 @@ console.log(result);
 // [^ tells you what not to look for]
 // + look for things consecutively
 // * mark chars that appear 0 or more times
-//  
+// g Perform a global match (find all matches rather than stopping after the first match)
+// m Perform multiline matching
+// i Perform case-insensitive matching
+//...
